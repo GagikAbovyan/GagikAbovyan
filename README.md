@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GagikAbovyan
+- 👀 I’m interested in mobile apps
+- 🌱 I’m currently learning kotlin and swift
+- 💞️ I’m looking to collaborate on android and ios (swift)
+- 📫 How to reach me gagikabovyan98@gmail.com
